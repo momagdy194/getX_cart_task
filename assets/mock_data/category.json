@@ -1,0 +1,30 @@
+[
+  {
+    "title": "steak",
+    "image": "assets/item_image.png"
+  },
+  {
+    "title": "Vegetables",
+    "image": "assets/item_image.png"
+  },
+  {
+    "title": "Beverages",
+    "image": "assets/item_image.png"
+  },
+  {
+    "title": "fish",
+    "image": "assets/item_image.png"
+  },
+  {
+    "title": "juice",
+    "image": "assets/item_image.png"
+  },
+  {
+    "title": "steak",
+    "image": "assets/item_image.png"
+  },
+  {
+    "title": "Vegetables",
+    "image": "assets/item_image.png"
+  }
+]

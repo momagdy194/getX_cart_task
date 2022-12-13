@@ -1,0 +1,35 @@
+[
+  {
+    "productName": "Summer Sun Ice Cream P",
+    "productUnit": "bottle",
+    "productImage": "assets/item_image.png",
+    "shortDescription": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also",
+    "id": 0,
+    "oldPrice": 10.0,
+    "productPrice": 5.0,
+    "remainingQuantity": 5.0,
+    "time": 10.0
+  },
+  {
+    "productName": "Ice Coffee",
+    "productUnit": "cup",
+    "productImage": "assets/item_image.png",
+    "shortDescription": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also",
+    "id": 1,
+    "oldPrice": 5.0,
+    "productPrice": 3.0,
+    "remainingQuantity": 5.0,
+    "time": 10.0
+  },
+  {
+    "productName": "cupcake",
+    "productUnit": "cup",
+    "productImage": "assets/item_image.png",
+    "shortDescription": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also",
+    "id": 2,
+    "oldPrice": 6.0,
+    "productPrice": 3.0,
+    "remainingQuantity": 5.0,
+    "time": 10.0
+  }
+]
